@@ -1,0 +1,2 @@
+API Link = https://api.openweathermap.org/data/2.5/onecall?longitude/latitude&exclude=hourly&appid=d583808e8dee8d7e9fd2e9caa9db3177
+API Key = d583808e8dee8d7e9fd2e9caa9db3177
