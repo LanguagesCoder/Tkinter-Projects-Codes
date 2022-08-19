@@ -1,0 +1,32 @@
+	Welcome WebCoding Retial
+ Bill Number : 8367
+ Customer Name : Durgesh H. Kavate
+ Phone Number : 7620677973
+=========================================
+ Products		QTY		Price
+=========================================
+ Bath Soap		100		4000
+ Face Cream		100		12000
+ Face wash		100		6000
+ Hair Spray		100		18000
+ Hair Gell		100		14000
+ Body Loshan		100		18000
+ Rice		100		8000
+ Food Oil		100		18000
+ Daal		100		6000
+ Wheat		100		24000
+ Sugar		100		4500
+ Tea		100		15000
+ Maza		100		6000
+ Cock		100		6000
+ Frooti		100		5000
+ Thumbs Up		100		4500
+ Limca		100		4000
+ Sprite		100		6000
+ ----------------------------------------
+ Cosmetics Tax			Rs. 3600.0
+ Grocery Tax			Rs. 7550.0
+ Cold Drinks Tax			Rs. 1575.0
+ ----------------------------------------
+ Total Bill			Rs. 191725.0
+ ----------------------------------------

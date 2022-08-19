@@ -1,0 +1,17 @@
+	Welcome WebCoding Retial
+ Bill Number : 3641
+ Customer Name : Durgesh
+ Phone Number : 7620677973
+=========================================
+ Products		QTY		Price
+=========================================
+ Face Cream		100		12000
+ Tea		8		1200
+ Limca		100		4000
+ ----------------------------------------
+ Cosmetics Tax			Rs. 600.0
+ Grocery Tax			Rs. 120.0
+ Cold Drinks Tax			Rs. 200.0
+ ----------------------------------------
+ Total Bill			Rs. 18120.0
+ ----------------------------------------
